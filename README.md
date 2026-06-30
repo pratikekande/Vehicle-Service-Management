@@ -83,6 +83,7 @@ Next Service Date and Remarks.
 
 ### Backend
 
+```
 src/main/java/org/example/vehicleservicetracker/
 │
 ├── entity/
@@ -111,9 +112,11 @@ src/main/java/org/example/vehicleservicetracker/
 │   └── GlobalExceptionHandler.java
 │
 └── VehicleServiceTrackerApplication.java
+```
 
 ### Frontend
 
+```
 src/
 │
 ├── api/
@@ -140,6 +143,7 @@ src/
 │   └── ServiceHistory.css
 │
 └── App.jsx
+```
 
 ---
 
